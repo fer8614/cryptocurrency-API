@@ -1,4 +1,6 @@
-# React + TypeScript + Vite
+# Cryptocurrency quote
+
+## React + TypeScript + Vite with Zod y Zustand
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
